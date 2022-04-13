@@ -7,7 +7,7 @@ This project was made based on a tutorial on Youtube: https://youtu.be/MkXuQ9CcH
 Final Result - Web Version:
 
 <div align="center">
-img src="https://user-images.githubusercontent.com/87499710/163287802-6cb284a4-93f7-4b77-bff0-4257c08635ce.png" width="300px" /
+img src="https://user-images.githubusercontent.com/87499710/163287802-6cb284a4-93f7-4b77-bff0-4257c08635ce.png" width="300px"
 </div>
 
 
